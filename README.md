@@ -23,3 +23,11 @@ I'm a second-year Digital Development student specializing in Mobile Application
 ### 📫 Connect With Me
 
 - LinkedIn: [www.linkedin.com/in/omar-mouhsine]
+
+---
+
+### 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,js,react,nodejs,postgres,git,github" />
+</p>
