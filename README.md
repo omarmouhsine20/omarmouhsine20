@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Omar Mouhsine
+# I'm Omar Mouhsine
 
 ### 💻 Aspiring Software Engineer
 
