@@ -28,6 +28,22 @@ I'm a second-year Digital Development student specializing in Mobile Application
 
 ### 🛠️ Languages & Technologies
 
+### 🛠️ Skills & Technologies
+
+**Languages & Web Development**
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,js,react,nodejs,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,kotlin" />
+</p>
+
+**Frameworks & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,git,github" />
+</p>
+
+**Database**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
