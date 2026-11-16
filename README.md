@@ -23,7 +23,6 @@ I'm a second-year Digital Development student specializing in Mobile Application
 
 ---
 
-### 🛠️ Languages & Technologies
 
 ### 🛠️ Skills & Technologies
 
