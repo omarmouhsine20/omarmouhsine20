@@ -20,9 +20,6 @@ I'm a second-year Digital Development student specializing in Mobile Application
 - SQL
 - Git & GitHub
 
-### 📫 Connect With Me
-
-- LinkedIn: [www.linkedin.com/in/omar-mouhsine]
 
 ---
 
@@ -47,3 +44,20 @@ I'm a second-year Digital Development student specializing in Mobile Application
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
+
+---
+
+### 🌱 Currently Learning
+
+- ⚛️ React – Building user interfaces.
+- 🟢 Node.js – Backend development.
+- 📱 Kotlin – Android application development.
+- 🗄️ SQL – Learning database management and relationships.
+
+  ---
+
+### 📫 Let's Connect!
+
+- 💼 LinkedIn: (www.linkedin.com/in/omar-mouhsine)
+- 💻 GitHub: (https://github.com/omarmouhsine20)
+- 📧 Email: (omarmouhsine33@gmail.com)
