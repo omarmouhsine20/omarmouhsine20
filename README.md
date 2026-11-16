@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Omar Mouhsine
 
-<!--
-**omarmouhsine20/omarmouhsine20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a second-year Digital Development student specializing in Mobile Application Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 📱 Interested in Mobile and Full-Stack Development.
+- 🌱 Currently learning Kotlin, JavaScript, React, and Node.js.
+- 💡 Passionate about learning new technologies and building projects.
+- 🎯 Working towards becoming a Software Engineer.
+
+### 🛠️ Technologies I'm Learning
+
+- Kotlin
+- JavaScript
+- React
+- Node.js
+- SQL
+- Git & GitHub
+
+### 📫 Connect With Me
+
+- LinkedIn: [www.linkedin.com/in/omar-mouhsine]
