@@ -29,7 +29,7 @@ I'm a second-year Digital Development student specializing in Mobile Application
 **Languages & Web Development**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,kotlin" />
 </p>
 
 **Frameworks & Tools**
